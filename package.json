@@ -1,6 +1,6 @@
 {
   "name": "nativescript-google-mobile-ads-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package installs the Google Mobile Ads for iOS via CocoaPods",
   "main": "index.js",
   "nativescript": {
