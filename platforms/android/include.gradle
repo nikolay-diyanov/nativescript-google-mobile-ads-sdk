@@ -1,0 +1,12 @@
+android { 
+    productFlavors {
+        "nativescript-google-mobile-ads-sdk" {
+            dimension "nativescript-google-mobile-ads-sdk"
+        }
+    }
+	useLibrary 'org.apache.http.legacy'
+}
+
+dependencies {
+	compile 'com.google.android.gms:play-services-ads:8.3.0'
+}

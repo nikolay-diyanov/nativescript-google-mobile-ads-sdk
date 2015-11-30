@@ -1,11 +1,12 @@
 {
   "name": "nativescript-google-mobile-ads-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This package installs the Google Mobile Ads for iOS via CocoaPods",
   "main": "index.js",
   "nativescript": {
     "platforms": {
-      "ios": "1.0.0"
+      "ios": "1.5.0",
+	  "android": "1.5.0"
     }
   },
   "repository": {
@@ -18,8 +19,5 @@
   "license": {
     "type": "MIT",
     "url": "https://github.com/nikolay-diyanov/nativescript-google-mobile-sdk-sdk/blob/master/LICENSE"
-  },
-  "dependencies": {
-    "nativescript-plugin-google-play-services": "^26.0.2"
   }
 }
